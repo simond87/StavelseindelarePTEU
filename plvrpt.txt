@@ -1,0 +1,819 @@
+somado
+1 3
+O N O N O N
+
+anual
+0
+N O N N C
+
+ordem
+1
+N C O N N
+
+prática
+2 4
+O O N O N O N
+
+milhões
+1
+O N O O N N C
+
+canalização
+1 3 5 7
+O N O N O N O N O N N
+
+quilómetros
+2 4 6
+O N N O N O N O O N C
+
+reparos
+1 3
+O N O N O N C
+
+arquipélago
+1 4 6 8
+N C O N N O N O N O N
+
+conclusões
+2 5
+O N C O O N O N N C
+
+Encargos
+1 4
+N C O N C O N C
+
+Madeira
+1 4
+O N O N N O N
+
+duas
+1
+O N N C
+
+Parcerias
+2 4 6
+O N C O N O N N C
+
+Público
+1 4
+O N O O N O N
+
+Privadas
+2 4
+O O N O N O N C
+
+rodoviárias
+1 3 6
+O N O N O N N O N N C
+
+existentes
+0 3 6
+N O N C O N C O N C
+
+ascenderam
+1 4 6
+N C O N C O N O N N
+
+três
+
+O O N C
+
+anos
+0
+N O N C
+
+euros
+1
+N N O N C
+
+acordo
+0 3
+N O N C O N
+
+Tribunal
+2 4
+O O N O N O N C
+
+Contas
+2
+O N C O N C
+
+analisou
+0 2 4
+N O N O N O N N
+
+exercícios
+0 3 5
+N O N C O N O N N C
+
+valor
+1
+O N O N C
+
+superior
+1 3
+O N O N O N N C
+
+previsto
+2 5
+O O N O N C O N
+
+embora
+1 3
+N C O N O N
+
+tenha
+1
+O N O O N
+
+beneficiado
+1 3 5 8
+O N O N O N O N N O N
+
+nesse
+2
+O N C O N
+
+período
+1 3 4
+O N O N N O N
+
+taxas
+1
+O N O N C
+
+juro
+1
+O N O N
+
+abaixo
+0 3
+N O N N O N
+
+justifica
+2 4 6
+O N C O N O N O N
+
+verbas
+2
+O N C O N C
+
+regularização
+1 3 5 7 9
+O N O N O N O N O N O N N
+
+Funchal
+2
+O N C O O N C
+
+concessionárias
+2 5 8 10
+O N C O N C O N N O N O N N C
+
+caiu
+1
+O N N N
+
+fracturação
+2 4 6 8
+O O N O N O N O N O N N
+
+uruguaio
+0 2 6
+N O N O N N N N
+
+consequência
+2 4 8
+O N C O N O N N C O N N
+
+dificuldades
+1 3 6 8
+O N O N O N C O N O N C
+
+financeiras
+1 4 7
+O N O N C O N N O N C
+
+região
+1
+O N O N N N
+
+autónoma
+1 3 5
+N N O N O N O N
+
+poupança
+2 5
+O N N O N C O N
+
+culminaram
+2 4 6
+O N C O N O N O N N
+
+assinatura
+1 3 5 7
+N C O N O N O N O N
+
+operacionais
+0 2 4 7
+N O N O N O N N O N N C
+
+assistência
+1 4 7
+N C O N C O N C O N N
+
+seguinte
+1 5
+O N O N N C O N
+
+veio
+2
+O N N N
+
+cumpridos
+2 5
+O N C O O N O N C
+
+pagamentos
+1 3 6
+O N O N O N C O N C
+
+rendas
+2
+O N C O N C
+
+assim
+1
+N C O N N
+
+afta
+0 2
+N O N O N
+
+cheio
+3
+O O N N N
+
+leão
+1
+O N N N
+
+relatório
+1 3 5
+O N O N O N O N N
+
+praia
+3
+O O N N N
+
+psicologia
+1 3 5 7 9
+O N O N O N O N O N N
+
+ainda
+0 2
+N N C O N
+
+ruim
+
+O N N N
+
+averiguou
+0 2 4
+N O N O N O N N N
+
+auditoria
+1 3 5 7
+N N O N O N O N N
+
+divulgada
+1 4 6
+O N O N C O N O N
+
+recentemente
+1 4 6 9
+O N O N C O N O N C O N
+
+contabiliza
+2 4 6 8
+O N C O N O N O N O N
+
+também
+2
+O N C O N N
+
+queijo
+3
+O N N N O N
+
+fiéis
+
+O N N N C
+
+fluiu
+
+O O N N N
+
+contratos
+2 5
+O N C O O N O N C
+
+abstrair
+2 5
+N C C O O N N C
+
+renegociação
+1 3 5 8
+O N O N O N O N N O N N
+
+iniciado
+0 2 5
+N O N O N N O N
+
+pneu
+1
+O N O N N
+
+plano
+2
+O O N O N
+
+ajustamento
+0 3 5 8
+N O N C O N O N C O N
+
+dossier
+2
+O N C O N N C
+
+concluído
+2 6
+O N C O O N N O N
+
+pacto
+1 3
+O N O N O N
+
+madeirense
+1 4 7
+O N O N N O N C O N
+
+ascendem
+1 4
+N C O N C O N N
+
+resultantes
+1 4 7
+O N O N C O N C O N C
+
+reversão
+1 4
+O N O N C O N N
+
+jurisdição
+1 4 6
+O N O N C O N O N N
+
+passagem
+2 4
+O N C O N O N N
+
+baía
+1 2
+O N N N
+
+esfera
+1 3
+N C O N O N
+
+estradas
+1 4
+N C O O N O N C
+
+concessionadas
+2 5 8 10
+O N C O N C O N N O N O N C
+
+reclassificadas
+1 5 7 9 11
+O N O O N C O N O N O N O N C
+
+consequente
+2 4 8
+O N C O N O N N C O N
+
+redução
+1 3
+O N O N O N N
+
+máximo
+1 3
+O N O N O N
+
+velocidade
+1 3 5 7
+O N O N O N O N O N
+
+linguagem
+2 5
+O N C O N N O N N
+
+passado
+2 4
+O N C O N O N
+
+inseparavel
+1 3 5 7
+N C O N O N O N O N C
+
+sempre
+2
+O N C O O N
+
+aconteceu
+0 3 5
+N O N C O N O N N
+
+não
+
+O N N
+
+esbarrou
+1 4
+N C O N C O N N
+
+assaído
+1 3 4
+N C O N N O N
+
+patrão
+1
+O N O O N N
+
+enganaria
+1 3 5 7
+N C O N O N O N N
+
+nenhum
+1
+O N O O N N
+
+júniores
+1 4
+O N O N N O N C
+
+confeitaria
+2 5 7 9
+O N C O N N O N O N N
+
+explicaÇão
+1 4 6
+N C O O N O N O N N
+
+inquiridor
+1 4 6
+N C O N N O N O N C
+
+sangue
+2
+O N C O N N
+
+qualquer
+3
+O N N C O N N C
+
+pareciam
+1 3 5
+O N O N O N N N
+
+paninho
+1 3
+O N O N O O N
+
+propriedade
+2 6 8
+O O N O O N N O N O N
+
+apresentaÇão
+0 3 6 8
+N O O N O N C O N O N N
+
+meio
+2
+O N N N
+
+excepcional
+1 3 5 8
+N C O N O N O N N O N C
+
+evidentemente
+0 2 5 7 10
+N O N O N C O N O N C O N
+
+quaisquer
+4
+O N N N C O N N C
+
+saquinho
+1 4
+O N O N N O O N
+
+depois
+1
+O N O N N C
+
+raiz
+1
+O N N C
+
+adormecem
+0 3 5
+N O N C O N O N N
+
+cheirava
+3 5
+O O N N O N O N
+
+apto
+0 2
+N O N O N
+
+muita
+2
+O N N O N
+
+membros
+2
+O N C O O N C
+
+indivíduo
+1 3 5
+N C O N O N O N N
+
+cientista
+3 6
+O N N C O N C O N
+
+estranho
+1 4
+N C O O N O O N
+
+primeira
+2 5
+O O N O N N O N
+
+comunhão
+1 3
+O N O N O O N N
+
+naquele
+1 4
+O N O N N O N
+
+jejum
+1
+O N O N N
+
+comungava
+1 4 6
+O N O N C O N O N
+
+horário
+1 3
+O N O N O N N
+
+ensinava
+1 3 5
+N C O N O N O N
+
+aquilo
+0 3
+N O N N O N
+
+explicava
+1 4 6
+N C O O N O N O N
+
+Jesus
+1
+O N O N C
+
+aflito
+0 3
+N O O N O N
+
+herói
+1
+O N O N N
+
+senhor
+1
+O N O O N C
+
+própria
+2
+O O N O O N N
+
+imagem
+0 2
+N O N O N N
+
+farinha
+1 3
+O N O N O O N
+
+corrupto
+2 4 6
+O N C O N O N O N
+
+fermento
+2 5
+O N C O N C O N
+
+coisas
+2
+O N N O N C
+
+paraguaio
+1 3 7
+O N O N O N N N N
+
+sacristão
+1 5
+O N O O N C O N N
+
+outro
+1
+N N O O N
+
+ouvidos
+1 3
+N N O N O N C
+
+igreja
+0 3
+N O O N O N
+
+pequeno
+1 4
+O N O N N O N
+
+ouviu
+1
+N N O N N
+
+caindo
+1 3
+O N N C O N
+
+porque
+2
+O N C O N N
+
+catequistas
+1 3 7
+O N O N O N N C O N C
+
+houve
+2
+O N N O N
+
+doutrina
+2 5
+O N N O O N O N
+
+opÇões
+0 2
+N O N O N N C
+
+certeza
+2 4
+O N C O N O N
+
+imensas
+0 3
+N O N C O N C
+
+perguntas
+2 5
+O N C O N C O N C
+
+chamava
+2 4
+O O N O N O N
+
+sabia
+1 3
+O N O N N
+
+deviam
+1 3
+O N O N N N
+
+havia
+1 3
+O N O N N
+
+catecismos
+1 3 6
+O N O N O N C O N C
+
+atleta
+0 3
+N O O N O N
+
+questão
+3
+O N N C O N N
+
+igualdade
+0 4 6
+N O N N C O N O N
+
+aqui
+0
+N O N N
+
+devíamos
+1 3 4
+O N O N N O N C
+
+espécie
+1 3
+N C O N O N N
+
+havemos
+1 3
+O N O N O N C
+
+enfim
+1
+N C O N N
+
+outono
+1 3
+N N O N O N
+
+exactamente
+0 2 5 8
+N O N O O N O N C O N
+
+excelências
+1 3 6
+N C O N O N C O N N C
+
+batem
+1
+O N O N N
+
+quase
+2
+O N N O N
+
+cumpridora
+2 5 7
+O N C O O N O N O N
+
+salário
+1 3
+O N O N O N N
+
+acérrima
+0 3 5
+N O N C O N O N
+
+trabalho
+2 4
+O O N O N O O N
+
+boa
+1
+O N N
+
+lapso
+1 3
+O N O N O N
+
+aceitam
+0 3
+N O N N O N N
+
+escravatura
+1 4 6 8
+N C O O N O N O N O N
+
+paciência
+1 5
+O N O N N C O N N
+
+condiÇão
+2 4
+O N C O N O N N
+
+entidade
+1 3 5
+N C O N O N O N
+
+patronal
+1 4
+O N O O N O N C
